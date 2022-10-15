@@ -1,0 +1,14 @@
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.exe
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.deps.json
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.runtimeconfig.json
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.dll
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\bin\Debug\netcoreapp3.1\MachEightChallenge.pdb
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.csproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.dll
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.pdb
+C:\Users\Camilo\source\repos\MachEightChallenge\MachEightChallenge\obj\Debug\netcoreapp3.1\MachEightChallenge.genruntimeconfig.cache
